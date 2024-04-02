@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ihssan Hadba</h1>
 <h3 align="center">A passionate FullStack developer from Tripoli</h3>
 
+- 📍 I'm based in **Tripoli,Lebanon**
+
 - 🌱 I’m currently learning **web development**
 
 - 📫You can contact me at **ihssanhadba@gmail.com**
+
+- ⚡ Always looking to learn something **new**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
