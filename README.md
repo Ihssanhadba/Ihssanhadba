@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 📫You can contact me at **ihssanhadba@gmail.com**
+- 📫  You can contact me at **ihssanhadba@gmail.com**
 
 - ⚡ Always looking to learn something **new**
 
